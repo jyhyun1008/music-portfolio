@@ -1,4 +1,8 @@
 <template>
+  <Head>
+    <Title>Hyun Jaeyeon</Title>
+    <Meta name="description" content="Hyun Jaeyeon - Music Composer, Arranger, Producer, Engineer"/>
+  </Head>
   <div>
     <NuxtPage />
   </div>
