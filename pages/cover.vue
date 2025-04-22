@@ -10,7 +10,7 @@ import { LearnMore } from '../.nuxt/components';
             <div id="news">
                 <h2>Cover</h2>
                 <div class="content">
-                    <h3>25.04.12.</h3>
+                    <h3>APR 12, 2025</h3>
                     <ul>
                         <li>고민중독 (Origin: QWER) <code>K-Pop</code>
                             <iframe width="100%" style="aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/5gtRxFOqF2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -18,7 +18,7 @@ import { LearnMore } from '../.nuxt/components';
                     </ul>
                 </div>
                 <div class="content">
-                    <h3>25.04.06.</h3>
+                    <h3>APR 06, 2025</h3>
                     <ul>
                         <li>だから僕は音楽を辞めた (Origin: ヨルシカ) <code>J-Pop</code>
                             <iframe width="100%" style="aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/OGkMVfxaHfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ import { LearnMore } from '../.nuxt/components';
                 </div>
 
                 <div class="content">
-                    <h3>25.03.30.</h3>
+                    <h3>MAR 30, 2025</h3>
                     <ul>
                         <li>Imprisoned XII (Origin: Ave Musica) <code>Anime</code>
                             <iframe width="100%" style="aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/4lKxDmSfBxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -35,7 +35,7 @@ import { LearnMore } from '../.nuxt/components';
                     </ul>
                 </div>
                 <div class="content">
-                    <h3>25.03.23.</h3>
+                    <h3>MAR 23, 2025</h3>
                     <ul>
                         <li>私、アイドル宣言 (Origin: HoneyWorks) <code>J-pop</code>
                             <iframe width="100%" style="aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/ua-LTgzpf_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -43,7 +43,7 @@ import { LearnMore } from '../.nuxt/components';
                     </ul>
                 </div>
                 <div class="content">
-                    <h3>25.03.11.</h3>
+                    <h3>MAR 11, 2025</h3>
                     <ul>
                         <li>キズナミュージック♪  (Origin: Poppin' Party) <code>Anime</code>
                             <iframe width="100%" style="aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/NLZa9x9VWYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -52,7 +52,7 @@ import { LearnMore } from '../.nuxt/components';
                 </div>
 
                 <div class="content">
-                    <h3>25.03.04.</h3>
+                    <h3>MAR 04, 2025</h3>
                     <ul>
                         <li>太陽は何度でも (Origin: NGT48) <code>J-Pop</code>
                             <iframe width="100%" style="aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/Tl9XYm8Q2yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -61,7 +61,7 @@ import { LearnMore } from '../.nuxt/components';
                 </div>
 
                 <div class="content">
-                    <h3>25.03.02.</h3>
+                    <h3>MAR 02, 2025</h3>
                     <ul>
                         <li>ガーネット (Origin: 奥華子) <code>J-Pop</code>
                             <iframe width="100%" style="aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/zqh2mru8Oy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

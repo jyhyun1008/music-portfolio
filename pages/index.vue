@@ -10,13 +10,13 @@ import { LearnMore } from '../.nuxt/components';
             <div id="news">
                 <h2>New Release</h2>
                 <div class="content">
-                    <h3>25.04.18.</h3>
+                    <h3>APR 18, 2025</h3>
                     <ul>
                         <li>제망매가(Jemangmaega) - 연이나(However Ina) <code>Original</code></li>
                     </ul>
                 </div>
                 <div class="content">
-                    <h3>25.04.12.</h3>
+                    <h3>APR 12, 2025</h3>
                     <ul>
                         <li>고민중독 (Origin: QWER) <code>Cover</code></li>
                     </ul>

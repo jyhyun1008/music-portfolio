@@ -10,7 +10,7 @@ import { LearnMore } from '../.nuxt/components';
             <div id="news">
                 <h2>Release</h2>
                 <div class="content">
-                    <h3>25.04.12.</h3>
+                    <h3>APR 18, 2025</h3>
                     <ul>
                         <li>제망매가(Jemangmaega)
                             <iframe width="100%" style="aspect-ratio: 1" src="https://www.youtube.com/embed/kpiNzO5pnqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
