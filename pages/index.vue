@@ -16,9 +16,9 @@ import { LearnMore } from '../.nuxt/components';
                     </ul>
                 </div>
                 <div class="content">
-                    <h3>APR 12, 2025</h3>
+                    <h3>APR 25, 2025</h3>
                     <ul>
-                        <li>고민중독 (Origin: QWER) <code>Cover</code></li>
+                        <li>愛♡スクリ～ム！ (Origin: Love Live!) <code>Cover</code></li>
                     </ul>
                 </div>
             </div>

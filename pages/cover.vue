@@ -10,6 +10,14 @@ import { LearnMore } from '../.nuxt/components';
             <div id="news">
                 <h2>Cover</h2>
                 <div class="content">
+                    <h3>APR 25, 2025</h3>
+                    <ul>
+                        <li>愛♡スクリ～ム！ (Origin: Love Live!) <code>Anime</code>
+                            <iframe width="100%" style="aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/1qrAlHNgRvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </li>
+                    </ul>
+                </div>
+                <div class="content">
                     <h3>APR 12, 2025</h3>
                     <ul>
                         <li>고민중독 (Origin: QWER) <code>K-Pop</code>
