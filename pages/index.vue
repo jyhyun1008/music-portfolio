@@ -16,9 +16,9 @@ import { LearnMore } from '../.nuxt/components';
                     </ul>
                 </div>
                 <div class="content">
-                    <h3>MAY 18, 2025</h3>
+                    <h3>MAY 28, 2025</h3>
                     <ul>
-                        <li>대리암 (Origin: Doctors) <code>Cover</code></li>
+                        <li>アヤノの幸福理論 (Origin: じん) <code>Cover</code></li>
                     </ul>
                 </div>
             </div>

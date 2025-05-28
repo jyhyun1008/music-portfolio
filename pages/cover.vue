@@ -10,6 +10,14 @@ import { LearnMore } from '../.nuxt/components';
             <div id="news">
                 <h2>Cover</h2>
                 <div class="content">
+                    <h3>MAY 28, 2025</h3>
+                    <ul>
+                        <li>アヤノの幸福理論 (Origin: じん) <code>Anime</code>
+                            <iframe width="100%" style="aspect-ratio: 16 / 9" src="https://www.youtube.com/embed/4n8k0u4KLZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </li>
+                    </ul>
+                </div>
+                <div class="content">
                     <h3>MAY 18, 2025</h3>
                     <ul>
                         <li>대리암 (Origin: Doctors) <code>K-Pop</code>
