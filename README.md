@@ -1,75 +1,21 @@
-# Nuxt Minimal Starter
+# Music-Portfolio
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+> 재연의 음악활동 모음집
 
-## Setup
+## 코드
+그동안 작업하고 발매한 곡들이 수록되어 있습니다. 이 코드로 제작된 사이트는 [이곳](https://jay.peacht.art) 에서 보실 수 있어요.
 
-Make sure to install dependencies:
+## 이슈
+필기노트입니다. 현재는 화성학과 국악이론을 필기 하고 있습니다.
 
-```bash
-# npm
-npm install
+## PR
+안씁니다.
 
-# pnpm
-pnpm install
+## 액션
+'코드' 를 기반으로 사이트를 빌드하는 곳입니다. 저만 씁니다.
 
-# yarn
-yarn install
+## 프로젝트
+공부 일정입니다. 저만 씁니다.
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 위키
+무언가를 해보려고 합니다.
